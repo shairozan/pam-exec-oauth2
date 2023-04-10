@@ -11,7 +11,7 @@ require (
 	github.com/shimt/go-logif v0.0.7 // indirect
 	github.com/shimt/go-simplecli v0.0.4
 	github.com/spf13/viper v1.7.1 // indirect
-	golang.org/x/net v0.8.0
+	golang.org/x/net v0.9.0
 	google.golang.org/appengine v1.6.7
 	gopkg.in/ini.v1 v1.62.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
