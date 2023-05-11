@@ -11,7 +11,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/shimt/pam-exec-oauth2/internal/oauth2"
+	"github.com/shairozan/pam-exec-oauth2/internal/oauth2"
 )
 
 func TestTokenExchange_Success(t *testing.T) {

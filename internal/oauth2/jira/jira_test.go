@@ -13,8 +13,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/shimt/pam-exec-oauth2/internal/oauth2"
-	"github.com/shimt/pam-exec-oauth2/internal/oauth2/jws"
+	"github.com/shairozan/pam-exec-oauth2/internal/oauth2"
+	"github.com/shairozan/pam-exec-oauth2/internal/oauth2/jws"
 )
 
 func TestJWTFetch_JSONResponse(t *testing.T) {

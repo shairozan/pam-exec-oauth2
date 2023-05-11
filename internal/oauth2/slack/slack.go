@@ -6,7 +6,7 @@
 package slack // import "github.com/shimt/pam-exec-oauth2/internal/oauth2/slack"
 
 import (
-	"github.com/shimt/pam-exec-oauth2/internal/oauth2"
+	"github.com/shairozan/pam-exec-oauth2/internal/oauth2"
 )
 
 // Endpoint is Slack's OAuth 2.0 endpoint.

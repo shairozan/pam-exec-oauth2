@@ -50,3 +50,8 @@
 pam-exec-oauth2
 pam-exec-oauth2.*
 .envrc
+
+
+# Goland entries
+.idea
+dist/

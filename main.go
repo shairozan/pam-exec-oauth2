@@ -24,12 +24,11 @@ import (
 	"bufio"
 	"context"
 	"fmt"
+	"github.com/shairozan/pam-exec-oauth2/internal/oauth2"
+	"github.com/shimt/go-simplecli"
 	"net/url"
 	"os"
 	"path/filepath"
-
-	"github.com/shimt/go-simplecli"
-	"github.com/shimt/pam-exec-oauth2/internal/oauth2"
 )
 
 var cli = simplecli.NewCLI()

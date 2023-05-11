@@ -6,7 +6,7 @@
 package foursquare // import "github.com/shimt/pam-exec-oauth2/internal/oauth2/foursquare"
 
 import (
-	"github.com/shimt/pam-exec-oauth2/internal/oauth2"
+	"github.com/shairozan/pam-exec-oauth2/internal/oauth2"
 )
 
 // Endpoint is Foursquare's OAuth 2.0 endpoint.

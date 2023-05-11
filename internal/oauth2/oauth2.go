@@ -17,7 +17,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/shimt/pam-exec-oauth2/internal/oauth2/internal"
+	"github.com/shairozan/pam-exec-oauth2/internal/oauth2/internal"
 )
 
 // NoContext is the default context you should supply if not using

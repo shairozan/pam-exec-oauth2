@@ -20,8 +20,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/shimt/pam-exec-oauth2/internal/oauth2"
-	"github.com/shimt/pam-exec-oauth2/internal/oauth2/internal"
+	"github.com/shairozan/pam-exec-oauth2/internal/oauth2"
+	"github.com/shairozan/pam-exec-oauth2/internal/oauth2/internal"
 )
 
 // Config describes a 2-legged OAuth2 flow, with both the
