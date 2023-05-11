@@ -54,3 +54,4 @@ pam-exec-oauth2.*
 
 # Goland entries
 .idea
+dist/
