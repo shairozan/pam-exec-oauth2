@@ -16,7 +16,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/shimt/pam-exec-oauth2/internal/oauth2/internal"
+	"github.com/shairozan/pam-exec-oauth2/internal/oauth2/internal"
 )
 
 type mockTransport struct {

@@ -6,7 +6,7 @@
 package linkedin // import "github.com/shimt/pam-exec-oauth2/internal/oauth2/linkedin"
 
 import (
-	"github.com/shimt/pam-exec-oauth2/internal/oauth2"
+	"github.com/shairozan/pam-exec-oauth2/internal/oauth2"
 )
 
 // Endpoint is LinkedIn's OAuth 2.0 endpoint.

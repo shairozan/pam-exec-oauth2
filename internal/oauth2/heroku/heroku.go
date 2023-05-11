@@ -6,7 +6,7 @@
 package heroku // import "github.com/shimt/pam-exec-oauth2/internal/oauth2/heroku"
 
 import (
-	"github.com/shimt/pam-exec-oauth2/internal/oauth2"
+	"github.com/shairozan/pam-exec-oauth2/internal/oauth2"
 )
 
 // Endpoint is Heroku's OAuth 2.0 endpoint.

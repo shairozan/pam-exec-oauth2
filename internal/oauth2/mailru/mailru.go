@@ -6,7 +6,7 @@
 package mailru // import "github.com/shimt/pam-exec-oauth2/internal/oauth2/mailru"
 
 import (
-	"github.com/shimt/pam-exec-oauth2/internal/oauth2"
+	"github.com/shairozan/pam-exec-oauth2/internal/oauth2"
 )
 
 // Endpoint is Mail.Ru's OAuth 2.0 endpoint.
